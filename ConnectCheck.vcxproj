@@ -211,6 +211,8 @@
     <Image Include="C:\Users\user\Desktop\개인\green.ico" />
     <Image Include="C:\Users\user\Desktop\개인\red.ico" />
     <Image Include="res\ConnectCheck.ico" />
+    <Image Include="res\green.ico" />
+    <Image Include="res\red.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

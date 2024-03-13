@@ -65,5 +65,11 @@
     <Image Include="C:\Users\user\Desktop\개인\red.ico">
       <Filter>리소스 파일</Filter>
     </Image>
+    <Image Include="res\green.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\red.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
   </ItemGroup>
 </Project>
